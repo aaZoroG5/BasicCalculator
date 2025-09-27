@@ -26,7 +26,7 @@ public class PayrollCalculator {
 
         //possible scannerln
 
-        //create a variable that
+        //create a variable that calculates gross pay
         double grossPay = hours * payRate;
 
         //if statement that considers overtime pay of 1.5
